@@ -2,19 +2,52 @@
 
 ## Project Overview
 
-This project analyzes the performance of a national Tuberculosis (TB) awareness campaign using Power BI.
+This project analyzes the performance of a simulated Tuberculosis (TB) Awareness Campaign using Power BI.
 
-The dashboard focuses on monitoring campaign reach, engagement, testing outcomes, and geographic performance to support evidence-based decision making.
+The dashboard helps evaluate campaign performance across different social media platforms, content types, campaign themes, and target audiences. It provides actionable insights to support future public health awareness initiatives.
 
 ---
 
-## Objectives
+## Business Problem
 
-- Monitor campaign performance
-- Identify high and low performing counties
-- Track TB screening outcomes
-- Measure campaign efficiency
-- Support program planning
+Public health organizations need to understand which campaigns generate the highest reach and engagement so they can invest resources more effectively.
+
+This dashboard answers questions such as:
+
+- Which platform reached the most people?
+- How did campaign reach change over time?
+- Which content generated the most engagement?
+- Which campaign message resonated most?
+
+---
+
+## Dashboard Preview
+
+### Executive Summary
+
+![Dashboard](images/TB%20AWARENESS%20SCREENSHOT-Dashboard.JPG)
+
+---
+
+## Filtered Dashboard Examples
+
+### Platform Performance Filter
+
+![Platform Filter](images/Tb%20awareness%20screenshot-%20Instagram.JPG)
+
+### TikTok Campaign – Youth Audience
+
+![TikTok Filter](images/Tb%20awareness%20screenshot%20-%20Tiktok%20and%20Youth.JPG)
+
+---
+
+## KPIs
+
+- Total Reach
+- Total Views
+- Total Engagement
+- Average Engagement Rate
+- Earned Media Value (EMV)
 
 ---
 
@@ -22,19 +55,64 @@ The dashboard focuses on monitoring campaign reach, engagement, testing outcomes
 
 - Power BI
 - Power Query
-- SQL
-- Excel
 - DAX
+- Microsoft Excel
+- GitHub
 
 ---
 
-## Dashboard Preview
+## Dataset
 
-*Dashboard screenshots will be added here.*
+This project uses a simulated dataset created for portfolio purposes.
+
+The dataset contains:
+
+- Platform
+- Content Type
+- Campaign Theme
+- Audience
+- Reach
+- Views
+- Likes
+- Comments
+- Shares
+- Engagement Rate
+- Earned Media Value (EMV)
 
 ---
 
-## Key KPIs
+## Key Insights
 
-- Total People Reached
--
+- TikTok generated the highest campaign reach.
+- Short-form video content achieved strong engagement.
+- Campaign performance varied across audience segments.
+- Engagement trends changed throughout the campaign period.
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning with Power Query
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Dashboard Design
+- Interactive Filtering
+- Business Storytelling
+- GitHub Documentation
+
+---
+
+## Repository Structure
+
+```
+data/
+images/
+pbix/
+sql/
+README.md
+```
+
+---
+
+Created by **Sheilla Kageni**
