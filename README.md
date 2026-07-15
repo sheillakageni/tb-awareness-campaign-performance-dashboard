@@ -32,8 +32,7 @@ This dashboard answers questions such as:
 ## Filtered Dashboard Examples
 
 ### Platform Performance Filter
-
-![Platform Filter](images/Tb%20awareness%20screenshot-%20Instagram.JPG)
+![Platform Filter](images/Tb%20awareness%20screenshot-%20X.JPG)
 
 ### TikTok Campaign – Youth Audience
 
