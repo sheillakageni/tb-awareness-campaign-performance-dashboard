@@ -82,10 +82,11 @@ The dataset contains:
 
 ## Key Insights
 
-- TikTok generated the highest campaign reach.
-- Short-form video content achieved strong engagement.
-- Campaign performance varied across audience segments.
-- Engagement trends changed throughout the campaign period.
+- TikTok was the top-performing platform, generating the highest campaign reach (surpassing 200,000 views/impressions)
+- Campaign reach fluctuated significantly throughout the campaign period (June 9 to June 23), characterized by sharp peaks and valleys, with the highest peak occurring on 
+  June 21st
+- Quote Cards were the most engaging content format, accounting for 27.71% of the total engagement.
+- TB Testing was the most resonant campaign theme, driving the highest total engagement.
 
 ---
 
